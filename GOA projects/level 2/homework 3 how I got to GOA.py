@@ -1,2 +1,1 @@
-
-print(" I'm a former designer who was unhappy with this job and decided to switch to programming. I've been thinking of this decision for a long time but never found a good enough starting point, but it changed when I came across GOA and it peaked my interest.")
+print("I'm a former designer who was unhappy with this job and decided to switch to programming. I've been thinking of this decision for a long time but never found a good enough starting point, but it changed when I came across GOA and it peaked my interest.")
